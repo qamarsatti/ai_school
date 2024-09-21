@@ -1,15 +1,16 @@
 # AI School - NumPy Course
 
-[Chapter 1](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/AI_Fundamentals/Basic/Numpy/chapter_1.ipynb)
 
 Welcome to the **NumPy Course** repository! This course covers the essential concepts and techniques of **NumPy**, a powerful numerical computing library in Python. It is designed for both beginners and intermediate learners who want to master array manipulations, matrix operations, broadcasting, and much more!
 
 ## Course Outline
 
-1. **Introduction to NumPy**
+1. **Introduction to NumPy**<br>
+[![Chapter 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/ai_fundamentals/basic/numpy/chapter_1.ipynb)
    - Importance of NumPy
    - Installation and setup
    - Understanding N-Dimensional Arrays
+   
 
 2. **NumPy Basics**
    - Creating 1D, 2D, and 3D arrays
