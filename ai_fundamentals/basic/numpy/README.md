@@ -12,7 +12,8 @@ Welcome to the **NumPy Course** repository! This course covers the essential con
    - Understanding N-Dimensional Arrays
    
 
-2. **NumPy Basics**
+2. **NumPy Basics**<br>
+[![Chapter 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/ai_fundamentals/basic/numpy/chapter_2.ipynb)
    - Creating 1D, 2D, and 3D arrays
    - Array attributes
    - Initialization techniques like `np.zeros()`, `np.ones()`, and random number generation
