@@ -29,7 +29,8 @@ Welcome to the **NumPy Course** repository! This course covers the essential con
    - Broadcasting
    - Aggregation functions like `np.sum()`, `np.mean()`
 
-5. **Reshaping and Manipulating Arrays**
+5. **Reshaping and Manipulating Arrays**<br>
+[![Chapter 5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/ai_fundamentals/basic/numpy/chapter_5.ipynb)
    - Reshaping arrays with `np.reshape()`
    - Concatenation and splitting arrays
 
