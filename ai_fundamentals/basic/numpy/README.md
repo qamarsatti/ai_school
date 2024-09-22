@@ -48,10 +48,12 @@ Welcome to the **NumPy Course** repository! This course covers the essential con
    - Avoiding loops with broadcasting
    - Vectorization for performance optimization
 
-9. **Random Number Generation**
+9. **Random Number Generation**<br>
+[![Chapter 9](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/ai_fundamentals/basic/numpy/chapter_9.ipynb)
    - Using `np.random` for generating random numbers and distributions
 
-10. **Handling Missing Data**
+10. **Handling Missing Data**<br>
+[![Chapter 10](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/ai_fundamentals/basic/numpy/chapter_10.ipynb)
     - Identifying and handling missing data with `np.nan`
 
 11. **Array I/O**
