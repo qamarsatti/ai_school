@@ -43,7 +43,8 @@ Welcome to the **NumPy Course** repository! This course covers the essential con
    - Stacking, tiling, and repeating arrays
    - Sorting arrays
 
-8. **Broadcasting and Vectorization**
+8. **Broadcasting and Vectorization**<br>
+[![Chapter 8](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/ai_fundamentals/basic/numpy/chapter_8.ipynb)
    - Avoiding loops with broadcasting
    - Vectorization for performance optimization
 
