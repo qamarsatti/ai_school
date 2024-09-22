@@ -56,7 +56,8 @@ Welcome to the **NumPy Course** repository! This course covers the essential con
 [![Chapter 10](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/ai_fundamentals/basic/numpy/chapter_10.ipynb)
     - Identifying and handling missing data with `np.nan`
 
-11. **Array I/O**
+11. **Array I/O**<br>
+[![Chapter 11](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/ai_fundamentals/basic/numpy/chapter_11.ipynb)
     - Saving and loading arrays with text and binary files
 
 12. **Advanced NumPy Features**
