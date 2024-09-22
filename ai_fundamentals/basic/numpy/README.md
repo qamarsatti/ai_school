@@ -18,7 +18,8 @@ Welcome to the **NumPy Course** repository! This course covers the essential con
    - Array attributes
    - Initialization techniques like `np.zeros()`, `np.ones()`, and random number generation
 
-3. **Array Indexing and Slicing**
+3. **Array Indexing and Slicing**<br>
+[![Chapter 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/ai_fundamentals/basic/numpy/chapter_3.ipynb)
    - Accessing and modifying array elements
    - Fancy indexing: Integer and Boolean indexing
 
