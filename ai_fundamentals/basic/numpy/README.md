@@ -34,7 +34,8 @@ Welcome to the **NumPy Course** repository! This course covers the essential con
    - Reshaping arrays with `np.reshape()`
    - Concatenation and splitting arrays
 
-6. **NumPy and Linear Algebra**
+6. **NumPy and Linear Algebra**<br>
+[![Chapter 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/ai_fundamentals/basic/numpy/chapter_6.ipynb)
    - Matrix determinants, inverses, and solving linear equations
 
 7. **Advanced Array Manipulation**
