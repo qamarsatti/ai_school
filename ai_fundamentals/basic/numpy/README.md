@@ -23,7 +23,8 @@ Welcome to the **NumPy Course** repository! This course covers the essential con
    - Accessing and modifying array elements
    - Fancy indexing: Integer and Boolean indexing
 
-4. **Array Operations**
+4. **Array Operations**<br>
+[![Chapter 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/ai_fundamentals/basic/numpy/chapter_4.ipynb)
    - Arithmetic operations
    - Broadcasting
    - Aggregation functions like `np.sum()`, `np.mean()`
