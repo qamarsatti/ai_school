@@ -61,9 +61,11 @@ Welcome to the **NumPy Course** repository! This course covers the essential con
     - Saving and loading arrays with text and binary files
 
 12. **Advanced NumPy Features**
+[![Chapter 12](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/ai_fundamentals/basic/numpy/chapter_12.ipynb)
     - Structured arrays, memory mapping, and using `np.where()` for conditional filtering
 
 13. **Performance Optimization**
+[![Chapter 13](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/ai_fundamentals/basic/numpy/chapter_13.ipynb)
     - Memory efficiency and optimization techniques with NumPy
 
 14. **Interfacing with Other Libraries**
