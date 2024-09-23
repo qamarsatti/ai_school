@@ -23,7 +23,8 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 2.5 **Series with Missing Data**  
 2.6 **Handling Series with Custom Index**
 
-## Chapter 3: Pandas DataFrame - Basic Operations
+## Chapter 3: Pandas DataFrame - Basic Operations<br>
+[![Chapter 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_3.ipynb)<br>
 3.1 **Creating a DataFrame**  
 3.2 **DataFrame from a Dictionary**  
 3.3 **Reading Data from Files (CSV, Excel, etc.)**  
