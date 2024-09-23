@@ -5,7 +5,8 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 
 # Course Outline
 
-## Chapter 1: Introduction to Pandas
+## Chapter 1: Introduction to Pandas<br>
+[![Chapter 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_1.ipynb)
 1.1 **What is Pandas?**  
 1.2 **Installing Pandas**  
 1.3 **Importing Pandas in Python**  
