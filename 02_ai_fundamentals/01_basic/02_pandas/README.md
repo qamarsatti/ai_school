@@ -14,7 +14,8 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 1.5 **Pandas vs. Numpy vs. Excel**  
 1.6 **Importance of Pandas for Data Science and Machine Learning**
 
-## Chapter 2: Pandas Series
+## Chapter 2: Pandas Series<br>
+[![Chapter 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_2.ipynb)<br>
 2.1 **Creating a Series**  
 2.2 **Accessing Elements in a Series**  
 2.3 **Basic Attributes of a Series (dtype, size, shape)**  
