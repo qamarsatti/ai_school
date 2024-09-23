@@ -68,10 +68,12 @@ Welcome to the **NumPy Course** repository! This course covers the essential con
 [![Chapter 13](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_13.ipynb)
     - Memory efficiency and optimization techniques with NumPy
 
-14. **Interfacing with Other Libraries**
+14. **Interfacing with Other Libraries**<br>
+[![Chapter 14](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_14.ipynb)
     - Using NumPy with Pandas, SciPy, and visualization with Matplotlib
 
-15. **Debugging and Testing in NumPy**
+15. **Debugging and Testing in NumPy**<br>
+[![Chapter 15](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_15.ipynb)
     - Common errors, debugging tips, and unit testing in NumPy
 
 ## Getting Started
