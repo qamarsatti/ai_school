@@ -34,7 +34,8 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 3.7 **Transposing DataFrames (df.T)**  
 3.8 **Copying DataFrames (Deep vs Shallow Copy)**
 
-## Chapter 4: Data Selection and Indexing
+## Chapter 4: Data Selection and Indexing<br>
+[![Chapter 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_4.ipynb)<br>
 4.1 **DataFrame Indexing and Slicing**  
 4.2 **Boolean Indexing**  
 4.3 **Setting and Resetting Index**  
@@ -44,7 +45,8 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 4.7 **Selecting Multiple Columns**  
 4.8 **Handling Missing Data (isna, dropna, fillna)**
 
-## Chapter 5: Data Cleaning and Transformation
+## Chapter 5: Data Cleaning and Transformation<br>
+[![Chapter 5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_5.ipynb)<br>
 5.1 **Handling Missing Data**  
 5.2 **Detecting and Handling Duplicates**  
 5.3 **Data Type Conversion (astype())**  
