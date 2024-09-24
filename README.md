@@ -164,7 +164,10 @@ In the future, I plan to expand this repository with additional topics, includin
 
 To get started with this repository, clone the repository and install the required dependencies:
 
-```bash
-git clone https://github.com/qamarsatti/ai_school
-cd ai-school
+## 🚀 Getting Started
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/qamarsatti/ai_school
+1. **Install requirements:**<br>
+cd ai-school<br>
 pip install -r requirements.txt
