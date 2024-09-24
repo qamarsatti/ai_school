@@ -169,5 +169,5 @@ To get started with this repository, clone the repository and install the requir
    ```bash
    git clone https://github.com/qamarsatti/ai_school
 1. **Install requirements:**<br>
-cd ai-school<br>
+cd ai_school<br>
 pip install -r requirements.txt
