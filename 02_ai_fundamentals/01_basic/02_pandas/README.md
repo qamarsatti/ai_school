@@ -56,7 +56,8 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 5.7 **Changing DataFrame Layout (Pivot, Melt, Stack, Unstack)**  
 5.8 **Replacing Values**
 
-## Chapter 6: Data Input/Output (I/O Operations)
+## Chapter 6: Data Input/Output (I/O Operations)<br>
+[![Chapter 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_6.ipynb)<br>
 6.1 **Reading and Writing CSV Files**  
 6.2 **Reading and Writing Excel Files**  
 6.3 **Reading from SQL Databases**  
@@ -65,7 +66,8 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 6.6 **Working with APIs and Data from the Web**  
 6.7 **Saving DataFrames to Different Formats (HTML, JSON, SQL, etc.)**
 
-## Chapter 7: Data Aggregation and Grouping
+## Chapter 7: Data Aggregation and Grouping<br>
+[![Chapter 7](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_7.ipynb)<br>
 7.1 **GroupBy Operations**  
 7.2 **Aggregating Data (sum(), mean(), count())**  
 7.3 **Multiple Aggregation Functions (agg())**  

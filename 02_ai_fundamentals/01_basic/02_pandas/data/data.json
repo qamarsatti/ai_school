@@ -1,0 +1,6 @@
+{
+    "people": [
+        {"Name": "John", "Age": 28, "City": "New York"},
+        {"Name": "Anna", "Age": 24, "City": "Paris"}
+    ]
+}
