@@ -76,7 +76,8 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 7.6 **Pivot Tables and Cross-tabulations**  
 7.7 **Window Functions (Rolling, Expanding, and EWM)**
 
-## Chapter 8: Data Visualization with Pandas
+## Chapter 8: Data Visualization with Pandas<br>
+[![Chapter 8](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_8.ipynb)<br>
 8.1 **Introduction to Data Visualization**  
 8.2 **Line Plots**  
 8.3 **Bar Plots**  
