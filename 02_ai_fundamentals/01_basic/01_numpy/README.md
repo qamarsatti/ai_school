@@ -6,50 +6,50 @@ Welcome to the **NumPy Course** repository! This course covers the essential con
 ## Course Outline
 
 1. **Introduction to NumPy**<br>
-[![Chapter 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_1.ipynb)
+[![Chapter 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_01.ipynb)
    - Importance of NumPy
    - Installation and setup
    - Understanding N-Dimensional Arrays
    
 
 2. **NumPy Basics**<br>
-[![Chapter 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_2.ipynb)
+[![Chapter 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_02.ipynb)
    - Creating 1D, 2D, and 3D arrays
    - Array attributes
    - Initialization techniques like `np.zeros()`, `np.ones()`, and random number generation
 
 3. **Array Indexing and Slicing**<br>
-[![Chapter 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_3.ipynb)
+[![Chapter 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_03.ipynb)
    - Accessing and modifying array elements
    - Fancy indexing: Integer and Boolean indexing
 
 4. **Array Operations**<br>
-[![Chapter 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_4.ipynb)
+[![Chapter 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_04.ipynb)
    - Arithmetic operations
    - Broadcasting
    - Aggregation functions like `np.sum()`, `np.mean()`
 
 5. **Reshaping and Manipulating Arrays**<br>
-[![Chapter 5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_5.ipynb)
+[![Chapter 5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_05.ipynb)
    - Reshaping arrays with `np.reshape()`
    - Concatenation and splitting arrays
 
 6. **NumPy and Linear Algebra**<br>
-[![Chapter 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_6.ipynb)
+[![Chapter 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_06.ipynb)
    - Matrix determinants, inverses, and solving linear equations
 
 7. **Advanced Array Manipulation**<br>
-[![Chapter 7](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_7.ipynb)
+[![Chapter 7](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_07.ipynb)
    - Stacking, tiling, and repeating arrays
    - Sorting arrays
 
 8. **Broadcasting and Vectorization**<br>
-[![Chapter 8](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_8.ipynb)
+[![Chapter 8](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_08.ipynb)
    - Avoiding loops with broadcasting
    - Vectorization for performance optimization
 
 9. **Random Number Generation**<br>
-[![Chapter 9](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_9.ipynb)
+[![Chapter 9](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/01_numpy/chapter_09.ipynb)
    - Using `np.random` for generating random numbers and distributions
 
 10. **Handling Missing Data**<br>

@@ -6,7 +6,7 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 # Course Outline
 
 ## Chapter 1: Introduction to Pandas<br>
-[![Chapter 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_1.ipynb)<br>
+[![Chapter 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_01.ipynb)<br>
 1.1 **What is Pandas?**  
 1.2 **Installing Pandas**  
 1.3 **Importing Pandas in Python**  
@@ -15,7 +15,7 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 1.6 **Importance of Pandas for Data Science and Machine Learning**
 
 ## Chapter 2: Pandas Series<br>
-[![Chapter 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_2.ipynb)<br>
+[![Chapter 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_02.ipynb)<br>
 2.1 **Creating a Series**  
 2.2 **Accessing Elements in a Series**  
 2.3 **Basic Attributes of a Series (dtype, size, shape)**  
@@ -24,7 +24,7 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 2.6 **Handling Series with Custom Index**
 
 ## Chapter 3: Pandas DataFrame - Basic Operations<br>
-[![Chapter 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_3.ipynb)<br>
+[![Chapter 3](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_03.ipynb)<br>
 3.1 **Creating a DataFrame**  
 3.2 **DataFrame from a Dictionary**  
 3.3 **Reading Data from Files (CSV, Excel, etc.)**  
@@ -35,7 +35,7 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 3.8 **Copying DataFrames (Deep vs Shallow Copy)**
 
 ## Chapter 4: Data Selection and Indexing<br>
-[![Chapter 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_4.ipynb)<br>
+[![Chapter 4](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_04.ipynb)<br>
 4.1 **DataFrame Indexing and Slicing**  
 4.2 **Boolean Indexing**  
 4.3 **Setting and Resetting Index**  
@@ -46,7 +46,7 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 4.8 **Handling Missing Data (isna, dropna, fillna)**
 
 ## Chapter 5: Data Cleaning and Transformation<br>
-[![Chapter 5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_5.ipynb)<br>
+[![Chapter 5](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_05.ipynb)<br>
 5.1 **Handling Missing Data**  
 5.2 **Detecting and Handling Duplicates**  
 5.3 **Data Type Conversion (astype())**  
@@ -57,7 +57,7 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 5.8 **Replacing Values**
 
 ## Chapter 6: Data Input/Output (I/O Operations)<br>
-[![Chapter 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_6.ipynb)<br>
+[![Chapter 6](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_06.ipynb)<br>
 6.1 **Reading and Writing CSV Files**  
 6.2 **Reading and Writing Excel Files**  
 6.3 **Reading from SQL Databases**  
@@ -67,7 +67,7 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 6.7 **Saving DataFrames to Different Formats (HTML, JSON, SQL, etc.)**
 
 ## Chapter 7: Data Aggregation and Grouping<br>
-[![Chapter 7](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_7.ipynb)<br>
+[![Chapter 7](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_07.ipynb)<br>
 7.1 **GroupBy Operations**  
 7.2 **Aggregating Data (sum(), mean(), count())**  
 7.3 **Multiple Aggregation Functions (agg())**  
@@ -77,7 +77,7 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 7.7 **Window Functions (Rolling, Expanding, and EWM)**
 
 ## Chapter 8: Data Visualization with Pandas<br>
-[![Chapter 8](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_8.ipynb)<br>
+[![Chapter 8](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_08.ipynb)<br>
 8.1 **Introduction to Data Visualization**  
 8.2 **Line Plots**  
 8.3 **Bar Plots**  
