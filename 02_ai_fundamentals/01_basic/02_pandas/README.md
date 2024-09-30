@@ -88,7 +88,8 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 8.8 **Integrating with Matplotlib and Seaborn**  
 8.9 **Plotting with Pandas’ Built-in Functions (plot(), hist(), etc.)**
 
-## Chapter 9: Advanced Data Operations
+## Chapter 9: Advanced Data Operations<br>
+[![Chapter 9](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_09.ipynb)<br>
 9.1 **Merging, Joining, and Concatenating DataFrames**  
 9.2 **Joining DataFrames with Different Keys**  
 9.3 **Working with Time Series Data (Date/Time Indexing)**  
@@ -99,7 +100,8 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 9.8 **Advanced String Manipulation**  
 9.9 **Working with Sparse Data**
 
-## Chapter 10: Performance Optimization
+## Chapter 10: Performance Optimization<br>
+[![Chapter 10](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_10.ipynb)<br>
 10.1 **Optimizing Memory Usage (dtype selection, category type)**  
 10.2 **Vectorization vs. Loops**  
 10.3 **Efficient Iteration with iterrows() vs. itertuples()**  
