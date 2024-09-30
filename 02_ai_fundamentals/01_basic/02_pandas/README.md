@@ -111,7 +111,8 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 10.7 **Using dask for Scalable DataFrames**  
 10.8 **Speeding Up with NumPy Operations**
 
-## Chapter 11: Real-World Use Cases and Projects
+## Chapter 11: Real-World Use Cases and Projects<br>
+[![Chapter 11](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_11.ipynb)<br>
 11.1 **Exploratory Data Analysis (EDA) with Pandas**  
 11.2 **Data Cleaning in Real-World Projects**  
 11.3 **Financial Data Analysis with Pandas**  
@@ -121,7 +122,8 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 11.7 **Building Simple Dashboards with Pandas and Matplotlib**  
 11.8 **Case Studies and Sample Projects**
 
-## Chapter 12: Pandas with Machine Learning
+## Chapter 12: Pandas with Machine Learning<br>
+[![Chapter 12](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_12.ipynb)<br>
 12.1 **Preprocessing Data for Machine Learning**  
 12.2 **Feature Engineering with Pandas**  
 12.3 **Integrating Pandas with Scikit-learn (train_test_split(), get_dummies())**  
