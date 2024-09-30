@@ -133,7 +133,8 @@ Welcome to the **Pandas Course** repository! This course covers the essential co
 12.7 **Feature Selection and Dimensionality Reduction**  
 12.8 **Data Transformation Pipelines**
 
-## Chapter 13: Pandas and Big Data (Beyond Pandas)
+## Chapter 13: Pandas and Big Data (Beyond Pandas)<br>
+[![Chapter 12](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/02_pandas/chapter_12.ipynb)<br>
 13.1 **Introduction to Dask and Vaex**  
 13.2 **Handling Big Data in Pandas**  
 13.3 **Scaling Pandas Operations on Large Datasets**  
