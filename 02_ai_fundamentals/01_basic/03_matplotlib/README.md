@@ -7,7 +7,7 @@ Welcome to the **Matplotlib Course** repository! This course covers the essentia
 ## Course Outline
 
 ### Chapter 1: Introduction to Matplotlib <br>
-[![Chapter 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/03_03_matplotlib/chapter_01.ipynb)<br>
+[![Chapter 1](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/03_matplotlib/chapter_01.ipynb)<br>
 1.1 **What is Matplotlib?**  
 1.2 **Installation and Setup**  
 1.3 **Understanding the Matplotlib Architecture**  
@@ -16,7 +16,7 @@ Welcome to the **Matplotlib Course** repository! This course covers the essentia
 ---
 
 ### Chapter 2: Basic Plotting with Matplotlib<br>
-[![Chapter 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/03_03_matplotlib/chapter_02.ipynb)<br>
+[![Chapter 2](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qamarsatti/ai_school/blob/main/02_ai_fundamentals/01_basic/03_matplotlib/chapter_02.ipynb)<br>
 2.1 **Creating Simple Line Plots**  
 2.2 **Customizing Line Styles, Colors, and Markers**  
 2.3 **Plotting Multiple Lines**  
